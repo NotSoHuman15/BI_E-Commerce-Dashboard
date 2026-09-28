@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (optional - see note below)
+data/raw/*.csv
+data/raw/*.xlsx
+*.csv.gz
+
+# Power BI temporary files
+*.pbix.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Large files
+*.zip
+*.tar.gz

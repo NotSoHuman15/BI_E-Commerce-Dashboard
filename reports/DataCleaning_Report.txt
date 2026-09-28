@@ -1,0 +1,40 @@
+
+================================================================================
+DATA CLEANING SUMMARY REPORT - WITH RETURNS INCLUDED
+================================================================================
+
+Cleaning Date: 2026-09-28 02:43:02
+Project: Business Intelligence - E-Commerce Analysis
+Students: Kartik Bhat (P23), Sanjay Yadav (P43)
+
+================================================================================
+BEFORE CLEANING:
+================================================================================
+Total Records:           541,909
+Duplicates:              5,268
+Missing CustomerID:      135,080
+Negative Quantities:     10,624
+
+================================================================================
+AFTER CLEANING:
+================================================================================
+Total Records:           534,131
+Sales Transactions:      524,878
+Return Transactions:     9,253
+Unique Customers:        4,371
+Unique Products:         3,828
+Countries:               38
+
+================================================================================
+KEY METRICS:
+================================================================================
+Gross Revenue (Sales):   £10,642,110.80
+Returns (Negative):      £-916,103.85
+Net Revenue:             £9,726,006.95
+Return Rate:             8.61%
+
+✅ RETURNS ARE INCLUDED IN THE DATASET
+   Return transactions: 9,253
+   Return revenue: £-916,103.85
+
+================================================================================
