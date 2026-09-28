@@ -22,7 +22,7 @@
 
 This project demonstrates a complete Business Intelligence workflow, from raw data cleaning to interactive dashboard creation. We work with the **Online Retail Dataset** (2010-2011) containing over 540,000 transactions with significant data quality issues.
 
-## Dataset Download Link:
+## Dataset Download Link: https://archive.ics.uci.edu/dataset/352/online+retail
 
 ### Key Objectives:
 1. Audit and document data quality issues in raw transactional data
